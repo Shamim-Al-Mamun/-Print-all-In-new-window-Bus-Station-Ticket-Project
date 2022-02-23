@@ -1,0 +1,3 @@
+# -Print-all-In-new-window-Bus-Station-Ticket-Project
+This project is aimed to build a software for bus station’s ticket selling. In most of the stations, we see salesman are using mobile phone/walkie talkie to communicate with other nearby stations of the company to inform about selling a ticket. But we are aiming to build an automatic solution for making the job easier. In our system, we are using a central database. All the information regarding ticket selling will be written in the database. 
+![download](https://user-images.githubusercontent.com/86506636/155289816-39970f4d-66e3-4faf-9145-ec0021f0a2a1.gif)
